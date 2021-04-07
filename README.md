@@ -19,4 +19,4 @@ Semakin tenang angin maka hambatan angin yang harus dilawan mobil semakin rendah
 ![Tire_Condition](https://drive.google.com/file/d/1DcUPWjggy1ZyOtHSEl3PwDv8PbXrni5_/view?usp=sharing)
 ![Wind_Speed](https://drive.google.com/file/d/1jkOxQjBze7MKaYyOpnn_SQpZ-SjZ7Xzv/view?usp=sharing)
 ![Rules](https://drive.google.com/file/d/1LtvqGRmM8LZF00JUjjlD9WiDym8h0m2u/view?usp=sharing)
-![Surface](https://drive.google.com/file/d/1ts0iFvkZxppZh02NprkVcCoA8Yo6U957/view?usp=sharing)
+![Surface](https://drive.google.com/file/d/1ts0iFvkZxppZh02NprkVcCoA8Yo6U957/view)
