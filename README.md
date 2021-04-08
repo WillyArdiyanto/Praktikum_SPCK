@@ -1,4 +1,8 @@
 # Praktikum_SPCK
+### Identitas
+Vincentius Willy Ardiyanto
+123190100
+Praktikum SPCK Plug D
 ### Deskripsi Masalah
 FIS inni berisi 3 inputan dan 1 outputan
 Inputannya adalah Tire Condition, Fuel Level, dan Wind Speed.
@@ -13,6 +17,7 @@ Semakin baik kondisi ban, mobil akan memiliki traksi yang lebih baik, semakin ba
 Semain rendah kapasitas bahan bakar maka mobil semakin ringan sehingga mobil dapat bermanufer secara lebih baik, dan akselerasi lebih cepat.
 Semakin tenang angin maka hambatan angin yang harus dilawan mobil semakin rendah sehingga tidak ada gangguan dari angin yang mempengaruhi aerodinamika mobil.
 ### Screenshoot
+https://drive.google.com/drive/folders/1Q8XI5wpgjxbhwnd3pJqPNbiU3P3Et2Aq?usp=sharing
 ![FIS](https://drive.google.com/file/d/1ddBNoqflDCxnSsC8A9NjJ6FsqlMoQe_E/view?usp=sharing)
 ![Fuel_Level](https://drive.google.com/file/d/1GZUk1Vrf2iF935s7hw4NmQBUVZkUTqqL/view?usp=sharing)
 ![Lap_Time](https://drive.google.com/file/d/1C8eZrMWWTzEmThgz_ZZmM8Lmw1I-qPmZ/view?usp=sharing)
